@@ -42,7 +42,7 @@
                 <div class="row">
                   <div class="col-lg-6">
                     <div class="form-group">
-                      <label for="name">Name</label>
+                      <label for="nama Barang">Nama Barang</label>
                       <input type="text" name="name" class="form-control @error('name') is-invalid @enderror" id="name" placeholder="Name Barang" value="{{old('name')}}" required>
                       @error('name')
                       <span class="invalid-feedback text-danger">{{ $message }}</span>
@@ -51,7 +51,7 @@
                   </div>
                   <div class="col-lg-6">
                     <div class="form-group">
-                      <label for="category">Category</label>
+                      <label for="kategori">kategori</label>
                       <input type="text" name="category" class="form-control @error('category') is-invalid @enderror" id="category" placeholder="Category" value="{{old('category')}}" required>
                       @error('category')
                       <span class="invalid-feedback text-danger">{{ $message }}</span>
@@ -82,7 +82,7 @@
                 <div class="row">
                   <div class="col-lg-6">
                     <div class="form-group">
-                      <label for="price">Price</label>
+                      <label for="Harga">Harga</label>
                       <input type="number" name="price" class="form-control @error('price') is-invalid @enderror" id="price" placeholder="Price" value="{{old('price')}}" required>
                       @error('price')
                       <span class="invalid-feedback text-danger">{{ $message }}</span>

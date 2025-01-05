@@ -41,11 +41,11 @@
                                     <thead>
                                         <tr>
                                             <th>#</th>
-                                            <th>Nama</th>
-                                            <th>Category</th>
+                                            <th>Nama Barang</th>
+                                            <th>Kategori</th>
                                             <th>Supplier</th>
                                             <th>Stock</th>
-                                            <th>Price</th>
+                                            <th>Harga</th>
                                             <th>Note</th>
                                             <th>Action</th>
                                         </tr>

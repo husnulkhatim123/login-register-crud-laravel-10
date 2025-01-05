@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>@yield('title') | Andis Dev</title>
+    <title>@yield('title') | Khusnul Khatim</title>
 
     <!-- Google Font: Source Sans Pro -->
     <link rel="stylesheet"
@@ -176,9 +176,8 @@
         <aside class="main-sidebar sidebar-dark-primary elevation-4">
             <!-- Brand Logo -->
             <a href="/dashboard" class="brand-link">
-                <img src="/assets/dist/img/AdminLTELogo.png" alt="AdminLTE Logo"
-                    class="brand-image img-circle elevation-3" style="opacity: .8">
-                <span class="brand-text font-weight-light">Andis Dev</span>
+        
+                <span class="brand-text font-weight-light">Khusnul Khatim</span>
             </a>
 
             <!-- Sidebar -->
@@ -267,7 +266,6 @@
 
             </div>
             <!-- Default to the left -->
-            <strong>Copyright &copy; 2023 <a href="https://andisdev.tech">Andis Dev</a>.</strong> All rights
             reserved.
         </footer>
     </div>
