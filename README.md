@@ -40,7 +40,7 @@ http://127.0.0.1:8000
 
 # License
 
-husnul khatim
+KHusnul khatim
 
 **Free for learn !**
 
